@@ -14,7 +14,7 @@
 - 📊 Interested in data pipelines, backend systems, and scalable applications
 - 🤖 Exploring automation with **n8n** and containerization with **Docker**
 - 📍 Based in **Bangalore, India**
-- 🚀 Open to: Full-time roles | Internships | Contract work
+- 🚀 Open to: Full-time roles 
 - 📅 Currently: Daily DSA problem solving + pushing projects consistently
 
 ---
